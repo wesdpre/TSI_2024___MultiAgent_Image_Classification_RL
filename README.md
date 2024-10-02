@@ -5,17 +5,17 @@ This repository contains the code, data, and experiments related to the replicat
 
 Contents:
 
-  Code:
+#Code:
     Python implementation of the multi-agent reinforcement learning algorithm
     Code for data preprocessing, feature extraction, and model training
     Scripts for running experiments and evaluating the model performance
-  Data:
+#Data:
     Image datasets used for training and evaluation (e.g., CIFAR-10, ImageNet)
     Preprocessed data and extracted features
-  Experiments:
+#Experiments:
     Experiment configurations and parameters
-    Results and analysis of the experiments
-  Paper:
+    Results and analysis of the experiments~
+#Paper:
     PDF copy of the research paper
 
 Note: The specific contents and organization of the repository may vary depending on the implementation details and the preferences of the authors.
